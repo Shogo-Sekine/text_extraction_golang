@@ -1,0 +1,3 @@
+# text_extraction_golang
+pythonで作成したtext_exrtactionをgolangで書き直す
+(2017/5/17 1ファイル分の抽出処理はできたので書き換えと複数ファイルへの対応を実装予定)
